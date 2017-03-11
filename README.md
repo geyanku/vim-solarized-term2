@@ -16,9 +16,10 @@
     mkdir -p ~/.vim/colors
     cp vim-colors-solarized/colors/solarized.vim ~/.vim/colors
 ### step 4  
-编写`~/.vimrc`文件    
-    vim ~/.vimrc
+编写`~/.vimrc`文件  
 
+    vim ~/.vimrc
+    
     // 文件中填写下面内容
     set ts=2
     set nu
