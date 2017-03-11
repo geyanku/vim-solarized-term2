@@ -3,6 +3,8 @@
 ## 资源下载
 终端：[iTerm2官网](http://www.iterm2.com/)    
 配色方案：[solarized](https://github.com/altercation/solarized)  
+## 效果预览
+![demo](/source/demo.jpeg)
 ## 步骤
 ### step 1  
 解压下载好的iTerm2文件，并运行其中的可执行文件。检查是否安装成功  
