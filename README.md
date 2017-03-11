@@ -43,5 +43,5 @@
 保存并退出`~/.bash_profile`     
 输入如下命令使配置生效     
 
-    source ~/.bash_profile    
+        source ~/.bash_profile    
 输入`ls`验证配色是否生效
