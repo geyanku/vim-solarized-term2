@@ -8,6 +8,7 @@
 解压下载好的iTerm2文件，并运行其中的可执行文件。检查是否安装成功  
 ### step 2
 下载solarized代码:  
+
     git clone https://github.com/altercation/solarized.git
 进入`solarized/iterm2-colors-solarized`目录，分别双击执行`Solarized Dark.itermcolors`和`Solarized Light.itermcolors`  
 此时，`Dark`和`Light`配色方案会导入到iTerm2中。  
@@ -31,6 +32,7 @@
 退出`~/.vimrc`编辑模式，`vim`主题添加成功
 ### step 6
 将配色应用到`ls`中  
+
     vim ~/.bash_profile
 
     // 在文件中添加下面一行
