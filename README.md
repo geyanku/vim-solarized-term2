@@ -8,4 +8,4 @@
 ### step 1  
 解压下载好的iTerm2文件，并运行其中的可执行文件。  
 启动iTerm2：
-![iterm2 start](/img/iterm2_start.jpg)
+![iterm2 start](/source/iterm2_start.jpeg)
