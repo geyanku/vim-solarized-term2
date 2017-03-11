@@ -13,7 +13,9 @@
 进入`solarized/iterm2-colors-solarized`目录，分别双击执行`Solarized Dark.itermcolors`和`Solarized Light.itermcolors`  
 此时，`Dark`和`Light`配色方案会导入到iTerm2中。  
 ### step 3
-将`solarized/vim-colors-solarized/colors`下的`solarized.vim`文件拷贝到`~/.vim/colors/`目录下
+进入`solarized/vim-colors-solarized/colors`目录  
+将`solarized.vim`文件拷贝到`~/.vim/colors/`目录下  
+
     mkdir -p ~/.vim/colors
     cp vim-colors-solarized/colors/solarized.vim ~/.vim/colors
 ### step 4  
