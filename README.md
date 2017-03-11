@@ -39,5 +39,9 @@
 
     // 在文件中添加下面一行
     export CLICOLOR=1
-### step 7
-退出输入`ls`查看是否配色生效  
+### step 7  
+保存并退出`~/.bash_profile`  
+输入如下命令使配置生效  
+
+    source ~/.bash_profile
+输入`ls`验证配色是否生效
